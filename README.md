@@ -72,4 +72,4 @@ Python 3.11 · Django 5.2 · PostgreSQL · SQLite (dev) · Docker Compose · Cla
 
 ## Contact
 
-Nexon Veloza · [Portfolio](https://nedavefo.github.io/Portfolio/) · [GitHub](https://github.com/Nedavefo) · [LinkedIn](https://www.linkedin.com/in/nexonveloza/) · nedavefo@gmail.com
+Nexon David Veloza Forero · [Portfolio](https://nedavefo.github.io/Portfolio/) · [GitHub](https://github.com/Nedavefo) · [LinkedIn](https://www.linkedin.com/in/nexonveloza/) · nedavefo@gmail.com
